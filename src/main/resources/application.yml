@@ -1,1 +1,5 @@
-spring.application.name=boot-EX
+spring:
+  application:
+    name: boot-EX
+  profiles:
+    active: dev

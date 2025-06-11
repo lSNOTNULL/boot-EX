@@ -1,4 +1,4 @@
 package org.example.bootex.dto;
 
-public record PromptForm() {
+public record PromptForm(String text) {
 }
